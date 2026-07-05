@@ -1,0 +1,1199 @@
+[
+  {
+    "id": "uni_fed_001",
+    "name": "University of Lagos",
+    "slug": "unilag",
+    "coordinates": [
+      6.5158,
+      3.3898
+    ],
+    "coordinate_verified": true,
+    "verification_method": "satellite_imagery",
+    "state": "Lagos",
+    "geopolitical_zone": "SW",
+    "ownership": "Federal",
+    "nuc_status": "Fully Accredited",
+    "nuc_last_verified": "2025-09",
+    "year_established": 1962,
+    "website": "https://unilag.edu.ng",
+    "portal": "https://unilag.edu.ng/admissions",
+    "health_faculty": true,
+    "fees": {
+      "bracket": "Low",
+      "tuition_per_session_ngn": 0,
+      "accommodation_per_session_ngn": 150000,
+      "levies_estimated_ngn": 55000,
+      "total_estimated_per_session_ngn": 205000,
+      "fee_note": "Federal university \u2014 tuition subsidised by FGN.",
+      "source_url": "https://unilag.edu.ng/bursary",
+      "last_verified": "2025-08"
+    },
+    "admission_signal": {
+      "annual_intake_capacity": 4500,
+      "applications_received": 42000,
+      "acceptance_rate_pct": 10.7,
+      "signal_tier": "Very Competitive",
+      "source": "UNILAG 2024 Annual Report",
+      "source_year": 2024
+    },
+    "courses": [
+      {
+        "id": "uni_fed_001_law",
+        "name": "Law",
+        "faculty": "Law",
+        "degree": "LLB",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Literature in English",
+          "Government",
+          "CRS/IRS"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.47",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_001_medicine",
+        "name": "Medicine and Surgery",
+        "faculty": "College of Medicine",
+        "degree": "MBBS",
+        "duration_years": 6,
+        "jamb_subjects": [
+          "English Language",
+          "Chemistry",
+          "Biology",
+          "Physics"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.52",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_001_cs",
+        "name": "Computer Science",
+        "faculty": "Science",
+        "degree": "B.Sc",
+        "duration_years": 4,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.61",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_001_econ",
+        "name": "Economics",
+        "faculty": "Social Sciences",
+        "degree": "B.Sc",
+        "duration_years": 4,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Economics",
+          "Government"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.68",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_001_engr_civil",
+        "name": "Civil Engineering",
+        "faculty": "Engineering",
+        "degree": "B.Eng",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.44",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_001_accounting",
+        "name": "Accounting",
+        "faculty": "Business Administration",
+        "degree": "B.Sc",
+        "duration_years": 4,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Economics",
+          "Accounting"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.35",
+        "last_verified": "2025-01"
+      }
+    ],
+    "source": "NaijaUniMap/YASA \u2014 yasa.com.ng"
+  },
+  {
+    "id": "uni_fed_002",
+    "name": "University of Ibadan",
+    "slug": "ui",
+    "coordinates": [
+      7.4474,
+      3.8966
+    ],
+    "coordinate_verified": true,
+    "verification_method": "satellite_imagery",
+    "state": "Oyo",
+    "geopolitical_zone": "SW",
+    "ownership": "Federal",
+    "nuc_status": "Fully Accredited",
+    "nuc_last_verified": "2025-09",
+    "year_established": 1948,
+    "website": "https://ui.edu.ng",
+    "portal": "https://admissions.ui.edu.ng",
+    "health_faculty": true,
+    "fees": {
+      "bracket": "Low",
+      "tuition_per_session_ngn": 0,
+      "accommodation_per_session_ngn": 120000,
+      "levies_estimated_ngn": 45000,
+      "total_estimated_per_session_ngn": 165000,
+      "last_verified": "2025-08"
+    },
+    "admission_signal": {
+      "annual_intake_capacity": 3800,
+      "applications_received": 36000,
+      "acceptance_rate_pct": 10.6,
+      "signal_tier": "Very Competitive",
+      "source": "UI Senate Report 2024",
+      "source_year": 2024
+    },
+    "courses": [
+      {
+        "id": "uni_fed_002_medicine",
+        "name": "Medicine and Surgery",
+        "faculty": "College of Medicine",
+        "degree": "MBBS",
+        "duration_years": 6,
+        "jamb_subjects": [
+          "English Language",
+          "Chemistry",
+          "Biology",
+          "Physics"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.52",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_002_agric",
+        "name": "Agriculture",
+        "faculty": "Agriculture and Forestry",
+        "degree": "B.Agric",
+        "duration_years": 4,
+        "jamb_subjects": [
+          "English Language",
+          "Biology",
+          "Chemistry",
+          "Agricultural Science"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.36",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_002_law",
+        "name": "Law",
+        "faculty": "Law",
+        "degree": "LLB",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Literature in English",
+          "Government",
+          "CRS/IRS"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.47",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_002_econ",
+        "name": "Economics",
+        "faculty": "Social Sciences",
+        "degree": "B.Sc",
+        "duration_years": 4,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Economics",
+          "Government"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.68",
+        "last_verified": "2025-01"
+      }
+    ],
+    "source": "NaijaUniMap/YASA \u2014 yasa.com.ng"
+  },
+  {
+    "id": "uni_fed_003",
+    "name": "Obafemi Awolowo University",
+    "slug": "oau",
+    "coordinates": [
+      7.5183,
+      4.5226
+    ],
+    "coordinate_verified": true,
+    "verification_method": "satellite_imagery",
+    "state": "Osun",
+    "geopolitical_zone": "SW",
+    "ownership": "Federal",
+    "nuc_status": "Fully Accredited",
+    "nuc_last_verified": "2025-09",
+    "year_established": 1961,
+    "website": "https://oauife.edu.ng",
+    "portal": "https://oauife.edu.ng/admissions",
+    "health_faculty": true,
+    "fees": {
+      "bracket": "Low",
+      "tuition_per_session_ngn": 0,
+      "accommodation_per_session_ngn": 100000,
+      "levies_estimated_ngn": 40000,
+      "total_estimated_per_session_ngn": 140000,
+      "last_verified": "2025-07"
+    },
+    "admission_signal": {
+      "annual_intake_capacity": 3200,
+      "applications_received": 38000,
+      "acceptance_rate_pct": 8.4,
+      "signal_tier": "Very Competitive",
+      "source_year": 2024
+    },
+    "courses": [
+      {
+        "id": "uni_fed_003_medicine",
+        "name": "Medicine and Surgery",
+        "faculty": "College of Health Sciences",
+        "degree": "MBBS",
+        "duration_years": 6,
+        "jamb_subjects": [
+          "English Language",
+          "Chemistry",
+          "Biology",
+          "Physics"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.52",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_003_cs",
+        "name": "Computer Science",
+        "faculty": "Science",
+        "degree": "B.Sc",
+        "duration_years": 4,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.61",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_003_law",
+        "name": "Law",
+        "faculty": "Law",
+        "degree": "LLB",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Literature in English",
+          "Government",
+          "CRS/IRS"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.47",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_003_arch",
+        "name": "Architecture",
+        "faculty": "Environmental Design",
+        "degree": "B.Arch",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Physics",
+          "Geography"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.38",
+        "last_verified": "2025-01"
+      }
+    ],
+    "source": "NaijaUniMap/YASA \u2014 yasa.com.ng"
+  },
+  {
+    "id": "uni_fed_004",
+    "name": "University of Nigeria, Nsukka",
+    "slug": "unn",
+    "coordinates": [
+      6.8651,
+      7.4067
+    ],
+    "coordinate_verified": true,
+    "verification_method": "satellite_imagery",
+    "state": "Enugu",
+    "geopolitical_zone": "SE",
+    "ownership": "Federal",
+    "nuc_status": "Fully Accredited",
+    "nuc_last_verified": "2025-09",
+    "year_established": 1960,
+    "website": "https://unn.edu.ng",
+    "portal": "https://unn.edu.ng/admissions",
+    "health_faculty": true,
+    "fees": {
+      "bracket": "Low",
+      "tuition_per_session_ngn": 0,
+      "accommodation_per_session_ngn": 90000,
+      "levies_estimated_ngn": 38000,
+      "total_estimated_per_session_ngn": 128000,
+      "last_verified": "2025-07"
+    },
+    "admission_signal": {
+      "annual_intake_capacity": 3500,
+      "applications_received": 28000,
+      "acceptance_rate_pct": 12.5,
+      "signal_tier": "Very Competitive",
+      "source_year": 2024
+    },
+    "courses": [
+      {
+        "id": "uni_fed_004_pharmacy",
+        "name": "Pharmacy",
+        "faculty": "Pharmaceutical Sciences",
+        "degree": "B.Pharm",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Chemistry",
+          "Biology",
+          "Physics"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.57",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_004_econ",
+        "name": "Economics",
+        "faculty": "Social Sciences",
+        "degree": "B.Sc",
+        "duration_years": 4,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Economics",
+          "Government"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.68",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_004_law",
+        "name": "Law",
+        "faculty": "Law",
+        "degree": "LLB",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Literature in English",
+          "Government",
+          "CRS/IRS"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.47",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_004_cs",
+        "name": "Computer Science",
+        "faculty": "Physical Sciences",
+        "degree": "B.Sc",
+        "duration_years": 4,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.61",
+        "last_verified": "2025-01"
+      }
+    ],
+    "source": "NaijaUniMap/YASA \u2014 yasa.com.ng"
+  },
+  {
+    "id": "uni_fed_005",
+    "name": "Ahmadu Bello University",
+    "slug": "abu",
+    "coordinates": [
+      11.1794,
+      7.6483
+    ],
+    "coordinate_verified": true,
+    "verification_method": "satellite_imagery",
+    "state": "Kaduna",
+    "geopolitical_zone": "NW",
+    "ownership": "Federal",
+    "nuc_status": "Fully Accredited",
+    "nuc_last_verified": "2025-09",
+    "year_established": 1962,
+    "website": "https://abu.edu.ng",
+    "portal": "https://abu.edu.ng/admissions",
+    "health_faculty": true,
+    "fees": {
+      "bracket": "Low",
+      "tuition_per_session_ngn": 0,
+      "accommodation_per_session_ngn": 80000,
+      "levies_estimated_ngn": 35000,
+      "total_estimated_per_session_ngn": 115000,
+      "last_verified": "2025-07"
+    },
+    "admission_signal": {
+      "annual_intake_capacity": 5500,
+      "applications_received": 40000,
+      "acceptance_rate_pct": 13.8,
+      "signal_tier": "Competitive",
+      "source_year": 2024
+    },
+    "courses": [
+      {
+        "id": "uni_fed_005_medicine",
+        "name": "Medicine and Surgery",
+        "faculty": "Medicine",
+        "degree": "MBBS",
+        "duration_years": 6,
+        "jamb_subjects": [
+          "English Language",
+          "Chemistry",
+          "Biology",
+          "Physics"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.52",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_005_law",
+        "name": "Law",
+        "faculty": "Law",
+        "degree": "LLB",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Literature in English",
+          "Government",
+          "CRS/IRS"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.47",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_005_agric",
+        "name": "Agriculture",
+        "faculty": "Agriculture",
+        "degree": "B.Agric",
+        "duration_years": 4,
+        "jamb_subjects": [
+          "English Language",
+          "Biology",
+          "Chemistry",
+          "Agricultural Science"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.36",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_005_engr_elect",
+        "name": "Electrical Engineering",
+        "faculty": "Engineering",
+        "degree": "B.Eng",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.44",
+        "last_verified": "2025-01"
+      }
+    ],
+    "source": "NaijaUniMap/YASA \u2014 yasa.com.ng"
+  },
+  {
+    "id": "uni_fed_006",
+    "name": "University of Benin",
+    "slug": "uniben",
+    "coordinates": [
+      6.3698,
+      5.6233
+    ],
+    "coordinate_verified": true,
+    "verification_method": "satellite_imagery",
+    "state": "Edo",
+    "geopolitical_zone": "SS",
+    "ownership": "Federal",
+    "nuc_status": "Fully Accredited",
+    "nuc_last_verified": "2025-09",
+    "year_established": 1970,
+    "website": "https://uniben.edu.ng",
+    "portal": "https://uniben.edu.ng/admissions",
+    "health_faculty": true,
+    "fees": {
+      "bracket": "Low",
+      "tuition_per_session_ngn": 0,
+      "accommodation_per_session_ngn": 95000,
+      "levies_estimated_ngn": 42000,
+      "total_estimated_per_session_ngn": 137000,
+      "last_verified": "2025-07"
+    },
+    "admission_signal": {
+      "annual_intake_capacity": 3200,
+      "applications_received": 25000,
+      "acceptance_rate_pct": 12.8,
+      "signal_tier": "Competitive",
+      "source_year": 2024
+    },
+    "courses": [
+      {
+        "id": "uni_fed_006_medicine",
+        "name": "Medicine and Surgery",
+        "faculty": "Medicine",
+        "degree": "MBBS",
+        "duration_years": 6,
+        "jamb_subjects": [
+          "English Language",
+          "Chemistry",
+          "Biology",
+          "Physics"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.52",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_006_law",
+        "name": "Law",
+        "faculty": "Law",
+        "degree": "LLB",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Literature in English",
+          "Government",
+          "CRS/IRS"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.47",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_006_accounting",
+        "name": "Accounting",
+        "faculty": "Management Sciences",
+        "degree": "B.Sc",
+        "duration_years": 4,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Economics",
+          "Accounting"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.35",
+        "last_verified": "2025-01"
+      }
+    ],
+    "source": "NaijaUniMap/YASA \u2014 yasa.com.ng"
+  },
+  {
+    "id": "uni_fed_007",
+    "name": "Federal University of Technology, Akure",
+    "slug": "futa",
+    "coordinates": [
+      7.2984,
+      5.1426
+    ],
+    "coordinate_verified": true,
+    "verification_method": "satellite_imagery",
+    "state": "Ondo",
+    "geopolitical_zone": "SW",
+    "ownership": "Federal",
+    "nuc_status": "Fully Accredited",
+    "nuc_last_verified": "2025-09",
+    "year_established": 1981,
+    "website": "https://futa.edu.ng",
+    "portal": "https://futa.edu.ng/admissions",
+    "health_faculty": false,
+    "fees": {
+      "bracket": "Low",
+      "tuition_per_session_ngn": 0,
+      "accommodation_per_session_ngn": 85000,
+      "levies_estimated_ngn": 38000,
+      "total_estimated_per_session_ngn": 123000,
+      "last_verified": "2025-07"
+    },
+    "admission_signal": {
+      "annual_intake_capacity": 2800,
+      "applications_received": 22000,
+      "acceptance_rate_pct": 12.7,
+      "signal_tier": "Competitive",
+      "source_year": 2024
+    },
+    "courses": [
+      {
+        "id": "uni_fed_007_cs",
+        "name": "Computer Science",
+        "faculty": "Computing",
+        "degree": "B.Tech",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.61",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_007_civil_engr",
+        "name": "Civil Engineering",
+        "faculty": "Engineering Technology",
+        "degree": "B.Tech",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.44",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_007_arch",
+        "name": "Architecture",
+        "faculty": "Environmental Technology",
+        "degree": "B.Tech",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Physics",
+          "Geography"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.38",
+        "last_verified": "2025-01"
+      }
+    ],
+    "source": "NaijaUniMap/YASA \u2014 yasa.com.ng"
+  },
+  {
+    "id": "uni_fed_008",
+    "name": "Bayero University Kano",
+    "slug": "buk",
+    "coordinates": [
+      12.0022,
+      8.592
+    ],
+    "coordinate_verified": true,
+    "verification_method": "satellite_imagery",
+    "state": "Kano",
+    "geopolitical_zone": "NW",
+    "ownership": "Federal",
+    "nuc_status": "Fully Accredited",
+    "nuc_last_verified": "2025-09",
+    "year_established": 1975,
+    "website": "https://buk.edu.ng",
+    "portal": "https://buk.edu.ng/admission",
+    "health_faculty": true,
+    "fees": {
+      "bracket": "Low",
+      "tuition_per_session_ngn": 0,
+      "accommodation_per_session_ngn": 70000,
+      "levies_estimated_ngn": 30000,
+      "total_estimated_per_session_ngn": 100000,
+      "last_verified": "2025-07"
+    },
+    "admission_signal": {
+      "annual_intake_capacity": 4000,
+      "applications_received": 30000,
+      "acceptance_rate_pct": 13.3,
+      "signal_tier": "Competitive",
+      "source_year": 2024
+    },
+    "courses": [
+      {
+        "id": "uni_fed_008_law",
+        "name": "Law",
+        "faculty": "Law",
+        "degree": "LLB",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Literature in English",
+          "Government",
+          "Islamic Studies"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.47",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_008_econ",
+        "name": "Economics",
+        "faculty": "Social Sciences",
+        "degree": "B.Sc",
+        "duration_years": 4,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Economics",
+          "Government"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.68",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_008_nursing",
+        "name": "Nursing Science",
+        "faculty": "Allied Health Sciences",
+        "degree": "B.Nsc",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Biology",
+          "Chemistry",
+          "Physics"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.55",
+        "last_verified": "2025-01"
+      }
+    ],
+    "source": "NaijaUniMap/YASA \u2014 yasa.com.ng"
+  },
+  {
+    "id": "uni_fed_009",
+    "name": "University of Port Harcourt",
+    "slug": "uniport",
+    "coordinates": [
+      4.9016,
+      6.9077
+    ],
+    "coordinate_verified": true,
+    "verification_method": "satellite_imagery",
+    "state": "Rivers",
+    "geopolitical_zone": "SS",
+    "ownership": "Federal",
+    "nuc_status": "Fully Accredited",
+    "nuc_last_verified": "2025-09",
+    "year_established": 1975,
+    "website": "https://uniport.edu.ng",
+    "portal": "https://uniport.edu.ng/admissions",
+    "health_faculty": true,
+    "fees": {
+      "bracket": "Low",
+      "tuition_per_session_ngn": 0,
+      "accommodation_per_session_ngn": 110000,
+      "levies_estimated_ngn": 48000,
+      "total_estimated_per_session_ngn": 158000,
+      "last_verified": "2025-07"
+    },
+    "admission_signal": {
+      "annual_intake_capacity": 3000,
+      "applications_received": 22000,
+      "acceptance_rate_pct": 13.6,
+      "signal_tier": "Competitive",
+      "source_year": 2024
+    },
+    "courses": [
+      {
+        "id": "uni_fed_009_cs",
+        "name": "Computer Science",
+        "faculty": "Science",
+        "degree": "B.Sc",
+        "duration_years": 4,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.61",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_009_petroleum_engr",
+        "name": "Petroleum Engineering",
+        "faculty": "Engineering",
+        "degree": "B.Eng",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.45",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_009_medicine",
+        "name": "Medicine and Surgery",
+        "faculty": "Medicine",
+        "degree": "MBBS",
+        "duration_years": 6,
+        "jamb_subjects": [
+          "English Language",
+          "Chemistry",
+          "Biology",
+          "Physics"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.52",
+        "last_verified": "2025-01"
+      }
+    ],
+    "source": "NaijaUniMap/YASA \u2014 yasa.com.ng"
+  },
+  {
+    "id": "uni_fed_010",
+    "name": "Usmanu Danfodiyo University",
+    "slug": "udus",
+    "coordinates": [
+      13.0688,
+      5.2362
+    ],
+    "coordinate_verified": true,
+    "verification_method": "satellite_imagery",
+    "state": "Sokoto",
+    "geopolitical_zone": "NW",
+    "ownership": "Federal",
+    "nuc_status": "Fully Accredited",
+    "nuc_last_verified": "2025-09",
+    "year_established": 1975,
+    "website": "https://udusok.edu.ng",
+    "portal": "https://udusok.edu.ng/admissions",
+    "health_faculty": true,
+    "fees": {
+      "bracket": "Low",
+      "tuition_per_session_ngn": 0,
+      "accommodation_per_session_ngn": 65000,
+      "levies_estimated_ngn": 28000,
+      "total_estimated_per_session_ngn": 93000,
+      "last_verified": "2025-07"
+    },
+    "admission_signal": {
+      "annual_intake_capacity": 3500,
+      "applications_received": 18000,
+      "acceptance_rate_pct": 19.4,
+      "signal_tier": "Moderate",
+      "source_year": 2024
+    },
+    "courses": [
+      {
+        "id": "uni_fed_010_medicine",
+        "name": "Medicine and Surgery",
+        "faculty": "Medicine",
+        "degree": "MBBS",
+        "duration_years": 6,
+        "jamb_subjects": [
+          "English Language",
+          "Chemistry",
+          "Biology",
+          "Physics"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.52",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_010_law",
+        "name": "Law",
+        "faculty": "Law",
+        "degree": "LLB",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Literature in English",
+          "Government",
+          "Islamic Studies"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.47",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_010_agric",
+        "name": "Agriculture",
+        "faculty": "Agriculture",
+        "degree": "B.Agric",
+        "duration_years": 4,
+        "jamb_subjects": [
+          "English Language",
+          "Biology",
+          "Chemistry",
+          "Agricultural Science"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.36",
+        "last_verified": "2025-01"
+      }
+    ],
+    "source": "NaijaUniMap/YASA \u2014 yasa.com.ng"
+  },
+  {
+    "id": "uni_fed_011",
+    "name": "University of Abuja",
+    "slug": "uniabuja",
+    "coordinates": [
+      8.9881,
+      7.3736
+    ],
+    "coordinate_verified": true,
+    "verification_method": "satellite_imagery",
+    "state": "FCT",
+    "geopolitical_zone": "NC",
+    "ownership": "Federal",
+    "nuc_status": "Fully Accredited",
+    "nuc_last_verified": "2025-09",
+    "year_established": 1988,
+    "website": "https://uniabuja.edu.ng",
+    "portal": "https://uniabuja.edu.ng/admissions",
+    "health_faculty": false,
+    "fees": {
+      "bracket": "Low",
+      "tuition_per_session_ngn": 0,
+      "accommodation_per_session_ngn": 120000,
+      "levies_estimated_ngn": 50000,
+      "total_estimated_per_session_ngn": 170000,
+      "fee_note": "Federal university in FCT. Strategic location in capital.",
+      "source_url": "https://uniabuja.edu.ng/fees",
+      "last_verified": "2025-07"
+    },
+    "admission_signal": {
+      "annual_intake_capacity": 2800,
+      "applications_received": 20000,
+      "acceptance_rate_pct": 14.0,
+      "signal_tier": "Competitive",
+      "source": "UniAbuja Registry 2024",
+      "source_year": 2024
+    },
+    "source": "NaijaUniMap/YASA \u2014 yasa.com.ng",
+    "courses": [
+      {
+        "id": "uni_fed_011_law",
+        "name": "Law",
+        "faculty": "Law",
+        "degree": "LLB",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Literature in English",
+          "Government",
+          "CRS/IRS"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.47",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_011_econ",
+        "name": "Economics",
+        "faculty": "Social Sciences",
+        "degree": "B.Sc",
+        "duration_years": 4,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Economics",
+          "Government"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.68",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_011_cs",
+        "name": "Computer Science",
+        "faculty": "Science",
+        "degree": "B.Sc",
+        "duration_years": 4,
+        "jamb_subjects": [
+          "English Language",
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.61",
+        "last_verified": "2025-01"
+      }
+    ]
+  },
+  {
+    "id": "uni_fed_012",
+    "name": "University of Maiduguri",
+    "slug": "unimaid",
+    "coordinates": [
+      11.8311,
+      13.151
+    ],
+    "coordinate_verified": true,
+    "verification_method": "satellite_imagery",
+    "state": "Borno",
+    "geopolitical_zone": "NE",
+    "ownership": "Federal",
+    "nuc_status": "Fully Accredited",
+    "nuc_last_verified": "2025-09",
+    "year_established": 1975,
+    "website": "https://unimaid.edu.ng",
+    "portal": "https://unimaid.edu.ng/admissions",
+    "health_faculty": true,
+    "fees": {
+      "bracket": "Low",
+      "tuition_per_session_ngn": 0,
+      "accommodation_per_session_ngn": 60000,
+      "levies_estimated_ngn": 25000,
+      "total_estimated_per_session_ngn": 85000,
+      "fee_note": "Federal university. Lowest total cost in dataset. Strategic for NE students.",
+      "source_url": "https://unimaid.edu.ng/fees",
+      "last_verified": "2025-07"
+    },
+    "admission_signal": {
+      "annual_intake_capacity": 3200,
+      "applications_received": 16000,
+      "acceptance_rate_pct": 20.0,
+      "signal_tier": "Accessible",
+      "source": "UNIMAID Registry 2024",
+      "source_year": 2024
+    },
+    "source": "NaijaUniMap/YASA \u2014 yasa.com.ng",
+    "courses": [
+      {
+        "id": "uni_fed_012_medicine",
+        "name": "Medicine and Surgery",
+        "faculty": "College of Medicine",
+        "degree": "MBBS",
+        "duration_years": 6,
+        "jamb_subjects": [
+          "English Language",
+          "Chemistry",
+          "Biology",
+          "Physics"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.52",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_012_law",
+        "name": "Law",
+        "faculty": "Law",
+        "degree": "LLB",
+        "duration_years": 5,
+        "jamb_subjects": [
+          "English Language",
+          "Literature in English",
+          "Government",
+          "Islamic Studies"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.47",
+        "last_verified": "2025-01"
+      },
+      {
+        "id": "uni_fed_012_agric",
+        "name": "Agriculture",
+        "faculty": "Agriculture",
+        "degree": "B.Agric",
+        "duration_years": 4,
+        "jamb_subjects": [
+          "English Language",
+          "Biology",
+          "Chemistry",
+          "Agricultural Science"
+        ],
+        "nuc_accredited": true,
+        "accreditation_status": "Full",
+        "source": "JAMB 2024 Brochure p.36",
+        "last_verified": "2025-01"
+      }
+    ]
+  }
+]
