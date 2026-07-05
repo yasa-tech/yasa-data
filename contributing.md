@@ -14,7 +14,7 @@ The most impactful contribution. Some institutions in our database have approxim
 - 1 point per submission
 - 5–10 bonus points when your submission contributes to a verified result
 - Badges for milestones (First Verifier, Ground Truth Hero, State Champion)
-- A certificate of contribution at 10 verified institutions — downloadable, shareable
+- A certificate of contribution at 10 verified institutions, downloadable, shareable
 
 **Time required:** 30 seconds per institution.
 
@@ -59,7 +59,7 @@ Know of a JAMB-eligible institution that does not appear on YASA? Report it.
 
 ## 4. Read yasa blog
 
-YASA periodically updates her blog — check [blog.yasa.ng](https://blog.yasa.ng). get updates, insights and life enriching contents centered around the Nigerian Educational system.
+YASA periodically updates her blog website. check [blog.yasa.ng](https://blog.yasa.ng). get updates, insights and life enriching contents centered around the Nigerian Educational system.
 
 ---
 
