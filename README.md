@@ -76,10 +76,10 @@ This repository serves as our public sample sandbox and technical documentation 
 
 | Path | Contents |
 | :--- | :--- |
-| 📁 `data/sample-institutions.json` | **The Teaser Dataset:** 50-institution structured JSON sample proving data schema. |
-| 📁 `docs/data-schema.md` | Full field definitions, metadata rules, and institutional keys. |
-| 📁 `docs/data-quality.md` | Underlying geocoding methodology and regional anomaly statistics. |
-| 📁 `docs/contributing.md` | Guidelines for formatting field error submissions via YASA Verify. |
+| 📁 `sample-institutions.json` | **The Teaser Dataset:** 12-institution structured JSON sample proving data schema. |
+| 📁 `data-schema.md` | field definitions, metadata rules, and institutional keys. |
+| 📁 `data-quality.md` | Underlying geocoding methodology and regional anomaly statistics. |
+| 📁 `contributing.md` | Guidelines for formatting field error submissions via YASA Verify. |
 
 ---
 
