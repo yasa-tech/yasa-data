@@ -51,7 +51,7 @@ To prevent data compromise, our validation script operates under a consensus mod
 This geocoded dataset serves as the foundation for peer-reviewed research on West African educational access equity. We strictly protect our data pipeline and do not distribute raw, bulk database files to protect our research integrity.
 
 * **For Research Access:** Email research@yasa.ng. 
-Comming soon: We will grant secure, structured **Tier 3 API access keys** and regional data teaser extracts to verified researchers under an official Data Use Agreement requiring academic attribution.
+Coming soon: We will grant secure, structured **Tier 3 API access keys** and regional data teaser extracts to verified researchers under an official Data Use Agreement requiring academic attribution.
 
 ### To Cite YASA:
 ```text
