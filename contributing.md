@@ -4,7 +4,7 @@ There are four ways to improve YASA's data. All are free. None require a technic
 
 ---
 
-## 1. Verify institution locations — YASA Verify
+## 1. Verify institution locations: YASA Verify
 
 The most impactful contribution. Some institutions in our database have approximate coordinates (assigned to a city centre rather than the actual campus). Three independent matching submissions from different contributors trigger an automatic coordinate update.
 
@@ -36,7 +36,7 @@ Found a wrong website, outdated fee information, a missing course, or an incorre
 - Campus address
 - Contact phone and email
 - Post-UTME type (CBT / Interview / Essay / None)
-- Anything else — use the "Other" option
+- Anything else, use the "Other" option
 
 **Review:** All corrections are reviewed by the YASA team before affecting the live platform. We aim to review within 5 business days. You earn 1 point per correction submitted.
 
