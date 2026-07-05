@@ -66,7 +66,7 @@ All results were validated against the Nigeria bounding box. Institutions receiv
 | Inferred subject combinations | 10.0% | Heuristic from programme name — flagged in platform |
 | Wikipedia enrichment coverage | 58% (899/1,558) | CC BY-SA 4.0 attributed |
 | Health facility proximity | 100% | GRID3 Nigeria 2024 dataset |
-| Coordinate jitter-flagged | ~5% | Centroid-only locations, queued for verification |
+| Coordinate jitter-flagged | ~35% | Centroid-only locations, queued for verification |
 
 ---
 
