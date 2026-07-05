@@ -10,8 +10,8 @@
 
 ## 📊 What YASA Covers
 
-* **1,558 Higher Institutions** — Every single JAMB IBASS-eligible university, polytechnic, monotechnic, college of education, and affiliated vocational college in Nigeria.
-* **28,267 Accredited Programmes** — Mapped with exact UTME subject combination requirements.
+* **1,000+ Higher Institutions** — Every single JAMB IBASS-eligible university, polytechnic, monotechnic, college of education, and affiliated vocational college in Nigeria.
+* **28,000+ Accredited Programmes** — Mapped with exact UTME subject combination requirements.
 * **Geocoded Spatial Coordinates** — The only complete, publicly accessible geocoded version of this institutional dataset in West Africa.
 * **Health Facility Proximity Tracking** — Exact physical distance to the nearest GRID3-listed health centre for every listed campus.
 * **Wikipedia-Enriched Metadata** — Founding years, institutional mottos, campus images, and local structural context.
