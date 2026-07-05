@@ -1,4 +1,4 @@
-# YASA — Nigeria's Free Geospatial Higher Education Finder
+# YASA: Nigeria's Free Geospatial Higher Education Finder
 
 **YASA (Your Admission, Spatial & Accessible)** is Nigeria's first nationally comprehensive, geocoded, and freely accessible database of JAMB-eligible higher institutions, delivered as a live, open-access web platform.
 
